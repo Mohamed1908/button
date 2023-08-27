@@ -1,0 +1,188 @@
+body{
+    background-size: cover;
+    background-image: url(../images/My\ project-1\ \(1\).png)
+    
+}
+.hd1{
+    text-align: center;
+}
+.dash{
+    height: 4px;
+    width: 100px;
+    background-color: #0a2735;
+    margin:-16px auto 0 ;
+}
+.dash:hover{
+    background-color: #07111667;
+}
+.parent{
+    margin-top: 70px;
+    overflow: auto;
+    height: 500px;
+}
+.div1{
+    margin-top: 20px;
+    margin-left: 205px;
+    float: left;
+    height: 400px;
+    width: 350px;
+    border: solid rgb(78, 78, 78);
+    text-align: center;
+    border-radius: 20%;
+}
+.div1:hover{
+    background-color: rgba(216, 213, 213, 0.623);
+}
+
+.p1{
+    color: rgb(85, 85, 85);
+}
+.circle1{
+    height: 140px;
+    width: 140px;
+    border: solid #31A6E1;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+}
+.circle1:hover{
+    background-color: #2b91c4;
+    color: #ffffff;
+}
+.p01{
+    font-size: 30px;
+}
+.p01:hover{
+    color: #ffffff;
+}
+.p001{
+    color: rgb(78, 78, 78);
+    font-size: 20px;
+}    
+.btn1{
+    border: solid #31A6E1;
+    height: 35px;
+    width: 100px;
+    border-radius: 50%;
+}
+.btn1:hover{
+    background-color: #31A6E1;
+    color: white;
+}
+
+/* /////////////////////////////////// */
+.div2{
+    border-radius: 20%;
+
+
+    outline: #31A6E1 solid;
+    outline-offset: 3px;
+    margin: 20 100;
+    float: left;
+    height: 400px;
+    width: 350px;
+    border: solid rgb(78, 78, 78);
+    text-align: center;
+}
+.div2:hover{
+    background-color: rgba(216, 213, 213, 0.623);
+
+}
+.p2{
+    color: rgb(78, 78, 78);
+    text-decoration: underline;
+}
+.p2:hover{
+    color: #31A6E1;
+}
+.circle2{
+    height: 140px;
+    width: 140px;
+    border: solid #31A6E1;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+}
+.circle2:hover{
+    background-color: #31A6E1;
+    color: #ffffff;
+}
+.p01{
+    font-size: 30px;
+}
+.p01:hover{
+    color: #ffffff;
+}
+.p001{
+    color: rgb(78, 78, 78);
+    font-size: 20px;
+}    
+.btn2{
+    border: solid #31A6E1;
+    height: 35px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+.btn2:hover{
+    background-color: #31A6E1;
+    color: white;
+}
+/* /////////////////////////////// */
+
+.div3{
+    border-radius: 20%;
+
+    margin-top: 20px;
+    outline: goldenrod solid;
+    outline-offset: 3px;
+    float: left;
+    height: 400px;
+    width: 350px;
+    border: solid rgb(78, 78, 78);
+    text-align: center;
+}
+.div3:hover{
+    background-color: rgba(216, 213, 213, 0.623);
+
+}
+.p3{
+    color: rgb(78, 78, 78);
+    text-decoration: underline;
+}
+.p3:hover{
+    color: goldenrod;
+}
+.circle3{
+    height: 140px;
+    width: 140px;
+    border: solid goldenrod;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+}
+.circle3:hover{
+    background-color: goldenrod;
+    color: #ffffff;
+}
+.p01{
+    font-size: 30px;
+}
+.p01:hover{
+    color: #ffffff;
+}
+.p001{
+    color: rgb(78, 78, 78);
+    font-size: 20px;
+}    
+.btn3{
+    border: solid goldenrod;
+    height: 35px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+.btn3:hover{
+    background-color: goldenrod;
+    color: white;
+}
